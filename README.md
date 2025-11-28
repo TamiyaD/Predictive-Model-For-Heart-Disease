@@ -1,5 +1,4 @@
-In this project, we will use the UCI Heart disease dataset and build a K-Nearest Neighbors classifier to accurately predict the likelihood of a patient having a heart disease in the future.
-The test set had a accuracy of 86.96%. However the limitation of the data may have influenced the accuracy of the model performance. 
+The UCI Heart Disease dataset is utilized to develop a K-Nearest Neighbors classifier to predict the likelihood of a patient having heart disease. The test set had an accuracy of 86.96%. However, the limitation of the data may have influenced the accuracy of the model performance.
 
 The final model was trained using the following features:
 - Oldpeak
